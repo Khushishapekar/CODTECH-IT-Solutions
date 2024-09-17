@@ -1,3 +1,4 @@
 # CODTECH-IT-Solutions
 
-Task: Linear Regression on Housing Prices
+Task 1: Linear Regression on Housing Prices
+Task 2: Credit Card Fraud Detection
